@@ -32,6 +32,4 @@ Simulation: Proteus 8 Professional
 PCB Design: EasyEDA
 Documentation: Microsoft Word
 
-### Contact
 
-GitHub: @mohomednasif614 
